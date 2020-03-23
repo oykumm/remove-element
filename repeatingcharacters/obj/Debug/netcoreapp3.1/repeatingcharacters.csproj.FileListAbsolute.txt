@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\repeatingcharacters\repeatingcharacters\bin\Debug\netcoreapp3.1\repeatingcharacters.exe
+C:\Users\ASUS\source\repos\repeatingcharacters\repeatingcharacters\bin\Debug\netcoreapp3.1\repeatingcharacters.deps.json
+C:\Users\ASUS\source\repos\repeatingcharacters\repeatingcharacters\bin\Debug\netcoreapp3.1\repeatingcharacters.runtimeconfig.json
+C:\Users\ASUS\source\repos\repeatingcharacters\repeatingcharacters\bin\Debug\netcoreapp3.1\repeatingcharacters.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\repeatingcharacters\repeatingcharacters\bin\Debug\netcoreapp3.1\repeatingcharacters.dll
+C:\Users\ASUS\source\repos\repeatingcharacters\repeatingcharacters\bin\Debug\netcoreapp3.1\repeatingcharacters.pdb
+C:\Users\ASUS\source\repos\repeatingcharacters\repeatingcharacters\obj\Debug\netcoreapp3.1\repeatingcharacters.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\repeatingcharacters\repeatingcharacters\obj\Debug\netcoreapp3.1\repeatingcharacters.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\repeatingcharacters\repeatingcharacters\obj\Debug\netcoreapp3.1\repeatingcharacters.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\repeatingcharacters\repeatingcharacters\obj\Debug\netcoreapp3.1\repeatingcharacters.dll
+C:\Users\ASUS\source\repos\repeatingcharacters\repeatingcharacters\obj\Debug\netcoreapp3.1\repeatingcharacters.pdb
